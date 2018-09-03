@@ -1,0 +1,92 @@
+body {
+	background: #fff!important;
+}
+.top {
+	width: 100%;
+	height: 4.81rem;
+	background-image: url(../images/radius.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+.top .logo {
+	width: 2.42rem;
+	height: 2.42rem;
+	background-color: #eff1f4;
+	box-shadow: 0.03rem 0.05rem 0.12rem 0rem 
+		rgba(53, 77, 144, 0.4);
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 0rem;
+}
+.top .logo img {
+	width: 1.36rem;
+	height: 1.36rem;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.top .radius {
+	 border-radius:0.5rem 0.5rem 0 0; /* 左上、右上、右下、左下 */
+}
+.content {
+	text-align: center;
+}
+.content h3 {
+	font-size: 0.4rem;
+	color: #5578db;
+	font-weight: 550;
+	margin: 0.38rem 0;
+}
+.content span {
+	font-size: 0.24rem;
+	color: #999999;
+	margin-bottom: 0.14rem;
+	display: block;
+}
+.content .appSystem {
+	width: 3.2rem;
+	margin: 0 auto;
+}
+.content .appSystem .app:first-child {
+	margin-top: 0.38rem;
+}
+.content .appSystem .app {
+	width: 3.2rem;
+	height: 0.62rem;
+	border-radius: 0.31rem;
+	border: solid 0.01rem #5578db;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 0.2rem;
+}
+.content .appSystem .app img {
+	width: 0.24rem;
+	height: 0.3rem;
+	float: left;
+}
+.content .appSystem .app p {
+	font-size: 0.24rem;
+	color: #5578db;
+	float: left;
+	margin-left: 0.2rem;
+}
+.content .app_Qrode {
+	margin-top: 0.3rem;
+}
+.content .app_Qrode img {
+	width: 2.28rem;
+	height: 2.36rem;
+}
+.content .app_Qrode p {
+	font-size: 0.24rem;
+	color: #999999;
+	margin-top: 0.14rem;
+} 
