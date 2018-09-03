@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/bubiandechenghao/refuse/raw/master/Payload.ipa</string>
+					<string>https://github.com/username1816175434/ceshi/blob/master/app.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitee.com/bubiandechenghao/refuse/blob/master/image.57*57.png</string>
+					<string>https://github.com/username1816175434/ceshi/blob/master/image.57*57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/bubiandechenghao/refuse/blob/master/image.512*512.png</string>
+					<string>https://github.com/username1816175434/ceshi/blob/master/image.512*512.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
