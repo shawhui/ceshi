@@ -1,0 +1,171 @@
+ /*全局设置*/
+.mui-content {
+	background: #EFF1F4!important;
+}
+
+body {
+	background: #EFF1F4;
+	line-height:normal!important;
+  	margin-bottom: 50px !important;
+}
+a {
+  text-decoration: none;
+}
+
+ul,
+li,
+i,
+b,
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dd,
+dt,
+dl {
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {font-weight: normal;}
+div,a,span,p,h1,h2,h3,h4,h5,h6,n {color:#333;}
+img {
+  vertical-align: bottom;
+}
+ui,
+li {
+  list-style-type: none;
+}
+.clear {
+  clear: both;
+}
+/*主页头部自定义样式*/
+ 
+ /*主页头部*/
+ .mui-bar>.mui-icon {
+    color:#FEF8F3;
+}
+.mui-bar {
+	
+	box-shadow: none!important;
+}
+/*头部*/
+.header {
+	background-color: #5578db;
+}
+header {
+	position: relative;
+}
+
+header.mui-bar, .mui-card {
+    border: none!important;
+    border:none!important;
+}
+header img {
+	width: 0.37rem;
+	height: 0.37rem;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+header i {
+	color: #fff;
+	font-style: normal;
+	font-size: 0.3rem;
+	line-height: 44px;
+}
+header i a {
+	color: #fff;
+}
+header .icon {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 100%;
+}
+header .icon .search_icon {
+    float: left;
+}
+header .icon .car {
+    float: left;
+    margin-left: 0.3rem;
+}
+.mui-icon-back {
+	color: #000;
+}
+
+.mui-title {
+	color: #fff !important;
+	font-weight: normal !important;
+} 
+
+.mui-bar .mui-icon i {
+	font-style: normal;
+	font-size: 0.34rem;
+}
+
+
+.mui-bar-nav {
+	box-shadow: none!important;
+}
+.mui-icon-back {
+	color: #000;
+}
+.mui-title {
+	color: #fff !important;
+	font-weight: normal !important;
+}
+.mui-table-view:after{ height:0}
+.mui-table-view:before{ height:0}
+
+/*.mui-table-view {background: #151515;}
+.mui-active {background: #151515!important;}*/
+.shade, .shade2, .shade3 {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background: rgba(0, 0, 0, .5);
+	z-index: 999;
+}
+
+.hide {
+	display: none;
+}
+
+main {
+	padding-top: 44px;
+    padding-bottom: 0.2rem;
+}
+
+.mui-bar-tab .mui-tab-item .mui-icon {
+	padding-top: 4px;
+	color: #b8b8b8;
+}
+.footer {
+	background: #fff;
+}
+.footer a {
+	text-align: center;
+	width: 0.45rem;
+}
+.footer a img {
+	width: 0.45rem;
+	height: 0.44rem;
+	display: flex;
+	justify-content: center;
+	margin: 0.12rem auto 0;
+}
+.footer a span {
+	font-size: 0.24rem;
+	color: #999999;
+}
+.footer a .active {
+	color: #5578db;
+}
+.mui-navigate-right:after, .mui-push-left:after, .mui-push-right:after {
+	font-size: 0.34rem;
+}
