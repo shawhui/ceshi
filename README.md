@@ -8,3 +8,9 @@
 中宏指数  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/username1816175434/ceshi/master/zhonghongzhishu/manifest.plist
 
 
+
+豆豆通  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/username1816175434/ceshi/master/doudoutong/manifest.plist
+
+豆豆通  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/username1816175434/ceshi/master/hengaizhongyi/manifest.plist
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/username1816175434/ceshi/blob/master/hengaizhongyi/hengaizhongyi.ipa?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/username1816175434/ceshi/blob/master/hengaizhongyi/image.57*57.png?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/username1816175434/ceshi/blob/master/hengaizhongyi/image.512*512.png?raw=true</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.doudou.nuoliwang.www</string>
+				<key>bundle-version</key>
+				<string>1.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>衡爱众易</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
