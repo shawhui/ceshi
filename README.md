@@ -11,6 +11,6 @@
 
 豆豆通  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/username1816175434/ceshi/master/doudoutong/manifest.plist
 
-豆豆通  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/username1816175434/ceshi/master/hengaizhongyi/manifest.plist
+衡爱众易  itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/username1816175434/ceshi/master/hengaizhongyi/manifest.plist
 
 
